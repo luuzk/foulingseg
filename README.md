@@ -1,6 +1,6 @@
 # Macrofouling Semantic Segmentation
 This is the official implementation of the paper 
-"Semantic Segmentation for Fully Automated Onshore Macrofouling Analysis on Coatings after Field Exposure" 
+"Semantic Segmentation for Fully Automated Macrofouling Analysis on Coatings after Field Exposure" 
 by Lutz M. K. Krause, Emily Manderfeld, Patricia Gnutt, Louisa Vogler, Ann Wassick, Kailey Richard, Marco Rudolph, 
 Kelli Z. Hunsucker, Geoffrey W. Swain, Bodo Rosenhahn, and Axel Rosenhahn.
 
